@@ -38,8 +38,8 @@ from requests.auth import HTTPBasicAuth
 # unlimited number of queries. Anybody else would have a 5,000 query/month limit unless the
 # customer is using the commercial API
 
-APIKEY 		= '77775b56-17c9-46a0-b5e2-bee3d7550641'
-APIPASSWORD = '711a4008-759e-4705-91e5-3ae376b52e4e'
+APIKEY 		= '' # <-- insert APIKEY here
+APIPASSWORD = '' # <-- insert APIPASSWORD here
 
 def cli_helpdoc():
 	'''
