@@ -5,7 +5,7 @@
 	   	First date coded	:	12/18/2016  
 	  	Last date modified	:	12/18/2016 
 		Version				:	1.0
-		Author				:	Barny Steve Sanchez (barny.sanchez@us.ibm.com)
+		Author				:	Barny Steve Sanchez   (barny.sanchez@us.ibm.com)
 		Collaborator		:	Gabriela Picado Nunez (gabrielap@cr.ibm.com)
 
 	 This script is part of Barny Sanchez's script repository. This 
